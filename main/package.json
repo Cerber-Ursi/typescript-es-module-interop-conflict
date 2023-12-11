@@ -2,7 +2,7 @@
   "name": "main",
   "version": "1.0.0",
   "dependencies": {
-    "dependency": "../dependency",
+    "dependency": "https://gitpkg.now.sh/Cerber-Ursi/typescript-es-module-interop-conflict/dependency?main",
     "typescript": "^5.3.3"
   }
 }
