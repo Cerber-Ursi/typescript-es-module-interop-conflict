@@ -1,0 +1,10 @@
+{
+  "name": "dependency",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^5.3.3"
+  }
+}

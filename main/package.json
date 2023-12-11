@@ -1,0 +1,8 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "dependencies": {
+    "dependency": "../dependency",
+    "typescript": "^5.3.3"
+  }
+}
